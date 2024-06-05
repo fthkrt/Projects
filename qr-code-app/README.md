@@ -15,3 +15,5 @@ Kullanıcılar, bir metin veya URL girdisi sağlayarak QR kodları oluşturabili
 3. QR kodunuz sayfada görüntülenecektir.
 
 **Fatih Kurt** - *Başlangıç çalışması* - [KullanıcıAdı](https://github.com/fthkrt)
+
+Netlify url(https://665fb2695a33f579c6909808--mellow-cobbler-508cb0.netlify.app/)
