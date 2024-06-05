@@ -14,3 +14,5 @@ Bu proje, kullanıcıların belirli bir konumun güncel hava durumunu öğrenmel
 3. Şehrin güncel hava durumu bilgileri sayfada görüntülenecektir.
 
 - **Fatih Kurt** - *Başlangıç çalışması* - [KullanıcıAdı](https://github.com/fthkrt)
+
+### Netlify url(https://665fb1fe6f35fe7b01c3d37e--lighthearted-kleicha-13651e.netlify.app/)
